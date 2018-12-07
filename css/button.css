@@ -1,0 +1,15 @@
+.con-button{
+    width:110px;
+    height: 40px;
+    text-align: center;
+    color: white;
+    font-size:15x;
+    line-height: 40px;
+    background: black;
+    border: 2px black solid;
+    cursor: pointer;
+}
+.con-button:hover{
+    background: none;
+    color: black
+}
